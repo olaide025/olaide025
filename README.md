@@ -7,7 +7,7 @@
   clients, helping them 10x their real estate portfolios through strategic investment in landed properties.
 - 👯 I’m looking to collaborate on data analysis jobs and projects that allow me to apply my skills and expertise to help organizations
   make informed decisions with data.
-- 📫 Connect With Me: Here
+- 📫 Connect With Me: [here](https://linktr.ee/abdulrahmanolokodana)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
