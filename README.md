@@ -1,9 +1,9 @@
-# 👋 Hello, I’m Abdulrahman Olaiide Olokodana
+# 👋 Hello, I’m Abdulrahman Olaide Olokodana
 
 Welcome to my GitHub! I'm a passionate **Data Analyst** who believes in using data to uncover insights, drive smarter decisions, and create business impact.
 
 ## 📊 About Me
-I'm skilled in transforming raw data into compelling visuals and actionable insights using tools like **Excel** and **Power BI**. I enjoy solving real-world problems with data — especially those that involve tracking trends, improving business performance, or simplifying complex information.
+I'm skilled in transforming raw data into compelling visuals and actionable insights using tools like **Excel** and **Power BI**. I enjoy solving real-world problems with data, especially those that involve tracking trends, improving business performance, or simplifying complex information.
 
 Whether it's sales data, customer behavior, or operational metrics, I enjoy crafting clear and meaningful stories through data.
 
